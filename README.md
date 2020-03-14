@@ -7,7 +7,7 @@
 
 * The paragraph with the class `holidays` should be italicized.
 
-* Cite the source in the footer.
+*(Cite) quote (a passage, book, or author)   the source in the footer.
 
 **Bonus**
 * Add another inline element to the document of your choice. 
